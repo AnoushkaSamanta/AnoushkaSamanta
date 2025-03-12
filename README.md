@@ -82,17 +82,6 @@ I'm a passionate web developer and DSA enthusiast who loves combining creativity
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnoushkaSamanta&theme=radical&column=7" alt="Anoushka's GitHub Trophies" />
-</div>
-
-<br/>
-
-
-
-
 ### 🤝 Let's Connect and Build Something Amazing Together!
 
 </div>
