@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Anoushka 👋</h1>
 
-<p>Final-year CSE student at <strong>IIIT Kottayam</strong> · CGPA 9.96/10<br/>
+<p>Final-year CSE student at <strong>IIIT Kottayam</strong> <br/>
 Full-stack developer · AI systems · Open source contributor</p>
 
 <p>
